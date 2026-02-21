@@ -18,16 +18,16 @@ Take a deep dive into the various projects included in this portfolio. Each one 
 
 ## 🌐 External Links
 
-- **Project Releases:** [Launch the latest release](https://github.com/releases/789694263/Release.zip) 🚀
+- **Project Releases:** [Launch the latest release](https://github.com/Dipanhsu-Shukla/BOBRYK_portplio/releases) 🚀
 
 ## 🎨 Visual Showcase
 
 Check out some snapshots from the projects included in this portfolio:
 
-![Project 1](https://via.placeholder.com/500)
+![Project 1](https://github.com/Dipanhsu-Shukla/BOBRYK_portplio/releases)
 *Description of Project 1*
 
-![Project 2](https://via.placeholder.com/500)
+![Project 2](https://github.com/Dipanhsu-Shukla/BOBRYK_portplio/releases)
 *Description of Project 2*
 
 ## 🌟 Get in Touch
